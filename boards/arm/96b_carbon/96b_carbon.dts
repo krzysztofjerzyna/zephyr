@@ -106,8 +106,8 @@
 	/*
 	 * For more information, see:
 	 * http://docs.zephyrproject.org/devices/dts/flash_partitions.html
-	 *zmaina1 zmina
-	 *zmain2
+	 *zmaina1 zmina dfholaswhfo
+	 *zmain2 loj zmina
 	 */
 	partitions {
 		compatible = "fixed-partitions";
